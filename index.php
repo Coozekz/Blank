@@ -24,10 +24,10 @@
       <input type="submit" name="submit" value="Submit" />
 </form>
 <?php
-$host = "fubgaa4928.database.windows.net,1433";
-$user = "imastermark";
+$host = "o6e8tvdopy.database.windows.net,1433";
+$user = "monish1234";
 $pwd = "cHarm3d!";
-$db = "tasklists";
+$db = "itachis";
 // Connect to database.
 try {
     $conn = new PDO( "sqlsrv:Server= $host ; Database = $db ", $user, $pwd);
