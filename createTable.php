@@ -1,6 +1,6 @@
 <?php
 // DB connection info
-$host = "f o6e8tvdopy.database.windows.net,1433";
+$host = "o6e8tvdopy.database.windows.net,1433";
 $user = "monish1234";
 $pwd = "cHarm3d!";
 $db = "itachis";
